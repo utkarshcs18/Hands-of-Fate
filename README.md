@@ -1,3 +1,6 @@
+### Hands - of - Fate
+---
+
 ##  Rock Paper Scissors — Auto Play Mode
 
 A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
