@@ -25,8 +25,10 @@ Added a fun **Auto Play** feature that lets the computer play by itself — just
    ```bash
      git clone <link-of-the-repo>
 2. **Open the project folder**
+   ```bash
      cd Hands-of-Fate
-3. **Simply open**
+4. **Simply open**
+   ```bash
      game.html ---- in your browser.
 
 
