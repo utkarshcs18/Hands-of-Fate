@@ -1,4 +1,4 @@
-###Hands - of - Fate
+### Hands - of - Fate
 ---
 
 ##  Rock Paper Scissors — Auto Play Mode
