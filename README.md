@@ -3,8 +3,6 @@
 A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 Added a fun **Auto Play** feature that lets the computer play by itself — just a small project made while learning and experimenting with JavaScript logic.
 
-This one’s been sitting on my system for a while, so I’m pushing it here before cleaning things up.  
-
 ---
 
 ##  Project Structure
