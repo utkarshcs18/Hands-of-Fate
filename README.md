@@ -7,6 +7,7 @@ Added a fun **Auto Play** feature that lets the computer play by itself — just
 
 ##  Project Structure
 
+---
 
 ##  About the Project
 
@@ -31,6 +32,7 @@ Added a fun **Auto Play** feature that lets the computer play by itself — just
    ```bash
      game.html ---- in your browser.
 
+---
 
 ## 🤝 Contributing
 
