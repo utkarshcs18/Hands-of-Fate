@@ -6,7 +6,7 @@ Added a fun **Auto Play** feature that lets the computer play by itself — just
 ---
 
 ##  Project Structure
-<img width="675" height="540" alt="Screenshot 2025-11-02 074735" src="https://github.com/user-attachments/assets/58a72c9b-de36-4380-a3ee-303f10b2ab14" />
+<img width="332" height="332" alt="Screenshot 2025-11-02 074735" src="https://github.com/user-attachments/assets/58a72c9b-de36-4380-a3ee-303f10b2ab14" />
 
 ---
 
